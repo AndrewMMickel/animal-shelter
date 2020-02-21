@@ -1,0 +1,12 @@
+.intro {
+    font-family: Arial;
+}
+
+.column {
+    width: 300px;
+    float: left;
+    margin: 2px;
+    border: 5px solid black;
+    padding: 4px;
+    background-color: goldenrod;
+}
