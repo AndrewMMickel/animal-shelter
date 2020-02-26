@@ -10,3 +10,10 @@
     padding: 4px;
     background-color: goldenrod;
 }
+
+@media screen and (min-width: 300px) and (max-width: 1000px) {
+    body {
+        background-color: rgb(26, 0, 172);
+        color: rgb(212, 1, 212);
+    }
+}
